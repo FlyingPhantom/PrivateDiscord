@@ -1,0 +1,8 @@
+{
+  "name": "Privacy Protector",
+  "version": "1.0.0",
+  "description": "Disables Discord tracking, location, IP, and activity monitoring.",
+  "author": "YourName",
+  "main": "src/index.js",
+  "license": "MIT"
+}
